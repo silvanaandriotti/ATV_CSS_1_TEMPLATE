@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: rgb(214, 191, 160);
+}
+
+pre {
+   color: rgb(48, 136, 177);
+}
+
+h1 {
+    color: rgb(2, 24, 121);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(7, 101, 138);
+    font-size: 30px;
+}
+
+h3 {
+    color: rgb(12, 63, 2);
+    font-size: 15px;
+}
+
+h4 {
+    color: rgb(17, 0, 114);
+    font-size: 10px;
+}
+
+h5 {
+    color: rgb(1, 102, 160);
+    font-size: 8px;
+}
+
+strong {
+    color: darkolivegreen;
+}
+
+mark {
+    color: cornflowerblue;
+}
+
+a {
+    color: rgb(255, 11, 11);
+    text-decoration: none;
+}
+
+table {
+    color: rgb(5, 7, 155);
+    border-style: double;
+    border-color:blueviolet;
+    width: 30vh;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 750px;
+    }
+
+.Descrição {
+    border-bottom: 3px;
+    border-bottom-color: blueviolet;
+    background-color: darkgoldenrod;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+.Episódios {
+    list-style-type: upper-alpha;
+}
+
+.Fases {
+    list-style-type: square;
+}
+
+.Pégaso {
+    background-color: black;
+}
+
+.Dragão {
+    background-color: black;
+}
+
+.Cisne {
+    background-color: black;
+}
+
+.Andrômedra {
+    background-color: black;
+}
+
+.Fênix {
+    background-color: black;
+}
+
+.Unicórnio {
+    background-color: black;
+}
+
+iframe {
+    width: 30vw;
+    height: 30vh;
+}
+
+ol {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
